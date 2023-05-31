@@ -1,0 +1,9 @@
+numpy 
+seqeval 
+pandas 
+matplotlib 
+scikit-learn 
+transformers 
+datasets
+torch
+streamlit 
